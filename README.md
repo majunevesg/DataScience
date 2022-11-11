@@ -15,9 +15,14 @@ resumo da formação..
 
 ## Projetos Acadêmicos:
 
+* **Simulação dos processos INAR(1), ZINAR(1) e RCINAR(1):**
 * **Estimação Bayesiana para o modelo INAR(1):** https://colab.research.google.com/drive/1xQQv6dreQw4ftXh_PiIh_WmpjV8F2ljV?usp=sharing
+* **Algoritmo Gibbs para o modelo de Regressão T:**
 
-## Demais rojetos :
+* **Estimação de Monte Carlo usando R:**
+* **Estimação de Monte Carlo usando Python:**
+
+## Demais projetos :
 Veja os tutoriais... :
 
 ---
