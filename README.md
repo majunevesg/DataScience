@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpeg" >
+  <img src="WhatsApp Image 2022-11-11 at 12.53.10.jpeg" >
 </p>
 
 # Maria Júlia
