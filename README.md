@@ -13,10 +13,11 @@ resumo da formação..
 * [LinkedIn](https://www.linkedin.com/in/mariajuliang)
 
 
-## Projetos:
+## Projetos Acadêmicos:
+
+* **Estimação Bayesiana para o modelo INAR(1):** https://colab.research.google.com/drive/1xQQv6dreQw4ftXh_PiIh_WmpjV8F2ljV?usp=sharing
+
+## Demais rojetos :
 Veja os tutoriais... :
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-
 
 ---
